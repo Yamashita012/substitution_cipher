@@ -14,7 +14,7 @@ Welcome to the Substitution Cipher project implemented in Python! This project d
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your_username/substitution-cipher-python.git
+   git clone https://github.com/yamashita012/substitution-cipher-python.git
    ```
 
 2. **Navigate to the Project Directory:**
