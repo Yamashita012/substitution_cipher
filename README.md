@@ -19,7 +19,7 @@ Welcome to the Substitution Cipher project implemented in Python! This project d
 
 2. **Navigate to the Project Directory:**
    ```
-   cd substitution-cipher-python
+   cd substitution_cipher
    ```
 
 3. **Run the Script:**
