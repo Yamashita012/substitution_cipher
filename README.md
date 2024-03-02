@@ -14,7 +14,7 @@ Welcome to the Substitution Cipher project implemented in Python! This project d
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yamashita012/substitution-cipher-python.git
+   git clone https://github.com/yamashita012/substitution_cipher.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -46,13 +46,8 @@ Contributions are welcome! If you'd like to enhance this project, here's how you
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-**License:**
-
-This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
-
 **Credits:**
 
-- This project is created by [Your Name/Team Name].
 - ASCII art banner function adapted from [Stack Overflow](https://stackoverflow.com/questions/493386/how-to-print-without-newline-or-space).
 - Special thanks to the Python community for their continuous support and resources.
 
